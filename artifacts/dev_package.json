@@ -15,6 +15,24 @@
 			"application": "testpackageapp",
 			"title": "",
 			"description": ""
+		},
+		{
+			"id": "5c4722ce-0598-ed11-852b-309c23b13ee9",
+			"application": "testsetdomcontent",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "50e5dcb9-eb97-ed11-852b-309c23b13ee9",
+			"application": "testmultimodelbinding",
+			"title": "",
+			"description": ""
+		},
+		{
+			"id": "4b71708b-4397-ed11-852a-309c23b13ee9",
+			"application": "testpushfile",
+			"title": "",
+			"description": ""
 		}
 	],
 	"api": [],
@@ -53,6 +71,12 @@
 	"script_scheduler": [],
 	"wf_definition": [],
 	"connector": [],
-	"events": [],
+	"events": [
+		{
+			"id": "89b73794-f797-ed11-852b-309c23b13ee9",
+			"name": "Test",
+			"description": null
+		}
+	],
 	"media_library": []
 }

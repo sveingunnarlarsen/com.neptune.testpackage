@@ -1,0 +1,15 @@
+{
+	"id": "89b73794-f797-ed11-852b-309c23b13ee9",
+	"createdAt": "2023-01-19T12:48:32.780Z",
+	"createdBy": "gunnar",
+	"name": "Test",
+	"description": null,
+	"eventAction": "AppEvent",
+	"scriptId": null,
+	"jobId": null,
+	"workflowId": null,
+	"package": "23147453-f07a-ed11-8526-309c23b13ee9",
+	"script": null,
+	"job": null,
+	"workflow": null
+}
