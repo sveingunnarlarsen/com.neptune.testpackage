@@ -1,0 +1,20 @@
+{
+	"id": "f4f967d8-019c-ed11-852b-309c23b13ee9",
+	"createdAt": "2023-01-24T16:12:06.806Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"globalScripts": [],
+	"externalModules": [],
+	"entitySets": [],
+	"apis": [],
+	"name": "dfgdfgdfgdfgdfg",
+	"ver": "23.1.25.954",
+	"description": null,
+	"content": "file:///content.script",
+	"useAsGlobalScript": false,
+	"transpiledContent": null,
+	"lastRunSuccessful": false,
+	"isTypescript": false,
+	"language": "javascript",
+	"jsscriptGroup": "c1cb2b0f-7092-ed11-852a-309c23b13ee9",
+	"package": "23147453-f07a-ed11-8526-309c23b13ee9"
+}

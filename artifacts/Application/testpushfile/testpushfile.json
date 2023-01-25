@@ -9,7 +9,21 @@
 		},
 		{
 			"fieldNo": 99998,
-			"data": []
+			"data": [
+				{
+					"fieldNo": "4b384747-b66e-4c05-daae-6661b5de45ef",
+					"fieldName": "oJavascript",
+					"fieldParent": 99998,
+					"fieldType": "neptune.Script",
+					"script": "file://script/neptune.Script/oJavascript.script",
+					"customComponent": false,
+					"filePath": "ojavascript",
+					"request": [],
+					"response": [],
+					"attributes": [],
+					"data": []
+				}
+			]
 		}
 	],
 	"componentInterface": [],
