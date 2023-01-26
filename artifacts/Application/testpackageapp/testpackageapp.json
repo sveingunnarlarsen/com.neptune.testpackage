@@ -23,7 +23,7 @@
 					"fieldName": "oTypescript",
 					"fieldParent": 99999,
 					"fieldType": "neptune.Typescript",
-					"script": "file://script/neptune.Typescript/oTypescript.script",
+					"script": "file://script/neptune.Typescript/oTypescript.ts",
 					"customComponent": false,
 					"request": [],
 					"response": [],

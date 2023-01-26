@@ -15,7 +15,7 @@
 					"fieldName": "oJavascript",
 					"fieldParent": 99998,
 					"fieldType": "neptune.Script",
-					"script": "file://script/neptune.Script/oJavascript.script",
+					"script": "file://script/neptune.Script/oJavascript.js",
 					"customComponent": false,
 					"filePath": "ojavascript",
 					"request": [],

@@ -1,0 +1,110 @@
+{
+	"id": "4e7d5b52-6f9d-ed11-852b-309c23b13ee9",
+	"createdAt": "2023-01-26T11:48:43.243Z",
+	"createdBy": "svein.gunnar.larsen@neptune-software.com",
+	"objects": [
+		{
+			"fieldNo": "5fec21f1-77a7-449f-f43b-1dcf29a4577a",
+			"fieldName": "oButton",
+			"fieldParent": 0,
+			"fieldType": "sap.m.Button",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "text",
+					"grouping": "Properties",
+					"value": "Button",
+					"script": "",
+					"translation": []
+				},
+				{
+					"attribute": "icon",
+					"grouping": "Properties",
+					"value": "/media/root/test/Capture.PNG",
+					"script": "",
+					"translation": []
+				},
+				{
+					"attribute": "press",
+					"grouping": "Events",
+					"value": "Anonymous Function",
+					"script": "file://event/sap.m.Button/oButton/press.ts",
+					"language": "typescript",
+					"translation": []
+				}
+			],
+			"data": []
+		},
+		{
+			"fieldNo": "b14955a3-50ac-4ca9-f276-a87e06a05215",
+			"fieldName": "oButton1",
+			"fieldParent": 0,
+			"fieldType": "sap.m.Button",
+			"script": "",
+			"customComponent": false,
+			"request": [],
+			"response": [],
+			"attributes": [
+				{
+					"attribute": "press",
+					"grouping": "Events",
+					"value": "Anonymous Function",
+					"script": "file://event/sap.m.Button/oButton1/press.js",
+					"language": "javascript",
+					"translation": []
+				}
+			],
+			"data": []
+		},
+		{
+			"fieldNo": 99999,
+			"data": []
+		},
+		{
+			"fieldNo": 99998,
+			"data": []
+		}
+	],
+	"componentInterface": [],
+	"ver": "23.1.26.1428",
+	"application": "offlineimage",
+	"title": "",
+	"description": "",
+	"enableFileStorage": false,
+	"enableManifest": false,
+	"enableStylesheet": false,
+	"enableObfuscate": false,
+	"onlyRunLaunchpad": false,
+	"disabled": false,
+	"loadLaunchpadCode": null,
+	"loadApplicationCode": null,
+	"appType": "A",
+	"ui5_m": true,
+	"ui5_f": false,
+	"ui5_table": false,
+	"ui5_tnt": false,
+	"ui5_uxap": false,
+	"ui5_chart": false,
+	"ui5_theme": "sap_fiori_3",
+	"ui5_version": "",
+	"ui5_language": null,
+	"ui5_url": "",
+	"cus_theme": "",
+	"css": "",
+	"header": "",
+	"manifest": "",
+	"globalScript": null,
+	"deleted": false,
+	"libHighchart": false,
+	"libHighmap": false,
+	"publicAccess": false,
+	"ui5_bootstrap": false,
+	"ui5_ionic": false,
+	"useV2AppHandler": false,
+	"compilerTarget": 3,
+	"apis": [],
+	"package": "23147453-f07a-ed11-8526-309c23b13ee9"
+}

@@ -9,7 +9,7 @@
 	"name": "dfgdfgdfgdfgdfg",
 	"ver": "23.1.25.954",
 	"description": null,
-	"content": "file:///content.script",
+	"content": "file:///content.js",
 	"useAsGlobalScript": false,
 	"transpiledContent": null,
 	"lastRunSuccessful": false,
